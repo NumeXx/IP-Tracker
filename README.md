@@ -17,7 +17,7 @@
 <span class="pl-k">&gt;</span> pkg install python
 <span class="pl-k">&gt;</span> pkg install git
 <span class="pl-k">&gt;</span> git clone https://github.com/NumeXx/IP-Tracker/
-<span class="pl-k">&gt;</span> cd SC-Deface-Creator
+<span class="pl-k">&gt;</span> cd IP-Tracker
 <span class="pl-k">&gt;</span> chmod 777 *
 <span class="pl-k">&gt;</span> python ip-tracker.py
 </pre>
