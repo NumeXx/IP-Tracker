@@ -1,5 +1,5 @@
 # IP-Tracker
-<center>Simple IP-Tracker Program, Coded in Python 3.x</ceenter>
+<p><center>Simple IP-Tracker Program, Coded in Python 3.x</ceenter></p>
 <a target="_blank" rel="noopener noreferrer" href="http://oi63.tinypic.com/b49lhj.jpg7"><img src="https://camo.githubusercontent.com/d8bb349533b9f7779b256f9d76a2f941f871e11568b7b4bf54b839a6f7c93289/687474703a2f2f6f6936332e74696e797069632e636f6d2f6234396c686a2e6a7067" border="0" data-canonical-src="http://oi63.tinypic.com/b49lhj.jpg" style="max-width:100%;"></a>
 
 # Cara Pakai [WINDOWS]
